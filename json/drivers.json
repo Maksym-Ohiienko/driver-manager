@@ -1,0 +1,44 @@
+{
+    "drivers": [
+		{
+			"manufacturer": "NVIDIA",
+			"shortManufacturer": "NVIDIA",
+			"downloadUrl": "https://www.nvidia.com/ru-ru/geforce/drivers/results/235936/",
+			"downloadButtonId": "agreeDownload-235936",
+			"downloadSilentParam": "-s",
+			"versionUrl": "https://geforce-experience.ru.uptodown.com/windows",
+			"versionRegeditPath": "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\GFExperience",
+			"versionRegeditKey": "Version"
+		},
+        {
+			"manufacturer": "Advanced Micro Devices",
+			"shortManufacturer": "AMD",
+			"downloadUrl": "https://www.amd.com/en/support/download/drivers.html",
+			"downloadButtonId": "button-8dbca2589a",
+			"downloadSilentParam": "-install",
+			"versionUrl": "https://amd-software-adrenalin-edition.ru.uptodown.com/windows",
+			"versionRegeditPath": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\AMD Catalyst Install Manager",
+			"versionRegeditKey": "DisplayVersion"
+		},
+        {
+			"manufacturer": "Intel",
+			"shortManufacturer": "Intel",
+			"downloadUrl": "https://dsadata.intel.com/installer",
+			"downloadButtonId": "",
+			"downloadSilentParam": "-s",
+			"versionUrl": "https://intel-driver-and-support-assistant.ru.uptodown.com/windows",
+			"versionRegeditPath": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+			"versionRegeditKey": "DisplayVersion"
+		},
+        {
+			"manufacturer": "Realtek Semiconductor Corp.",
+			"shortManufacturer": "Realtek",
+			"downloadUrl": "https://wwwfile.realtek.com/Download/FileDownload?token=NH24v43CO7%2Ft5GYeA%2F%2BWP2reSYb2PJMhLTXTPG4MgypihXIn%2FDCeW9N%2FhjDTQb%2BPqeYOMG1Bq%2B%2Fyz1DPCB43%2Fm8YU95e7uqlENparCOnQy63Hefb0cP%2FdFmVbdoQO7xPBqWnA1gKIg7mGuD%2BwmK9RtuT66tSDIij0IDJViFb9udB8Gsji5UAJzk6gQtIS6KaJo%2BPGdfNJqNSCVc7TS%2F9sA%3D%3D",
+			"downloadButtonId": "",
+			"downloadSilentParam": "-s",
+			"versionUrl": "",
+			"versionRegeditPath": "",
+			"versionRegeditKey": ""
+		}
+    ]
+}

@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/QML">
+        <file>qml/Main.qml</file>
+        <file>qml/MainPage.qml</file>
+        <file>qml/SimplePage.qml</file>
+        <file>qml/DriverListPage.qml</file>
+        <file>qml/SimpleButton.qml</file>
+        <file>qml/SimpleCheckBox.qml</file>
+        <file>qml/LoadingText.qml</file>
+        <file>qml/SimpleMessageBox.qml</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>DriverListPageIcons/actualMark.png</file>
+        <file>MainPageIcons/scan.png</file>
+        <file>DriverListPageIcons/information.png</file>
+        <file>DriverListPageIcons/actionCross.png</file>
+        <file>MainPageIcons/mainIcon.png</file>
+        <file>DriverListPageIcons/back.png</file>
+        <file>DriverListPageIcons/delete.png</file>
+        <file>DriverListPageIcons/reboot.png</file>
+        <file>PNPDeviceIcons/AudioEndpoint.png</file>
+        <file>PNPDeviceIcons/Battery.png</file>
+        <file>PNPDeviceIcons/Bluetooth.png</file>
+        <file>PNPDeviceIcons/Camera.png</file>
+        <file>PNPDeviceIcons/Computer.png</file>
+        <file>PNPDeviceIcons/DigitalMediaDevices.png</file>
+        <file>PNPDeviceIcons/DiskDrive.png</file>
+        <file>PNPDeviceIcons/Display.png</file>
+        <file>PNPDeviceIcons/Firmware.png</file>
+        <file>PNPDeviceIcons/HIDClass.png</file>
+        <file>PNPDeviceIcons/Keyboard.png</file>
+        <file>PNPDeviceIcons/MEDIA.png</file>
+        <file>PNPDeviceIcons/Mouse.png</file>
+        <file>PNPDeviceIcons/Net.png</file>
+        <file>PNPDeviceIcons/NvModuleTracker.png</file>
+        <file>PNPDeviceIcons/PrintQueue.png</file>
+        <file>PNPDeviceIcons/Processor.png</file>
+        <file>PNPDeviceIcons/SCSIAdapter.png</file>
+        <file>PNPDeviceIcons/SecurityDevices.png</file>
+        <file>PNPDeviceIcons/SoftwareComponent.png</file>
+        <file>PNPDeviceIcons/SoftwareDevice.png</file>
+        <file>PNPDeviceIcons/System.png</file>
+        <file>PNPDeviceIcons/Unknown.png</file>
+        <file>PNPDeviceIcons/USB.png</file>
+        <file>PNPDeviceIcons/Volume.png</file>
+        <file>PNPDeviceIcons/VolumeSnapshot.png</file>
+        <file>PNPDeviceIcons/Monitor.png</file>
+    </qresource>
+    <qresource prefix="/Fonts">
+        <file>fonts/Bowler.ttf</file>
+    </qresource>
+    <qresource prefix="/Json">
+        <file>json/drivers.json</file>
+    </qresource>
+    <qresource prefix="/Gifs">
+        <file>gifs/loading.gif</file>
+        <file>gifs/scanning.gif</file>
+    </qresource>
+</RCC>
